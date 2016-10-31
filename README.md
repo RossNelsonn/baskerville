@@ -3,4 +3,4 @@
 ## HTML exercise
 
 
-[version 1] (https://rossnelsonn.github.io/baskerville/)
+[version 1](https://RossNelsonn.github.io/baskerville/johnbaskerville1.html)
