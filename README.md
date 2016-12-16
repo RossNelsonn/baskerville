@@ -14,3 +14,7 @@
 - [version 5](https://RossNelsonn.github.io/baskerville/baskerville5.html)
 
 - [version 6](https://RossNelsonn.github.io/baskerville/baskerville6.html)
+
+- [version 7](https://RossNelsonn.github.io/baskerville/baskerville7.html)
+
+- [homework](https://RossNelsonn.github.io/baskerville/baskerville-homework.html)
